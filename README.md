@@ -1,3 +1,9 @@
+# Paracelsus Novus
+
+☝🏻 This project's primary purpose to educate humans from ages 7 to 21 in the practical use of philosophy.
+
+Nevertheless, if you're above the age range (or below, who knows) and wish to enhance your daily life with the lessons here, please do so. 🙏🏻
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
